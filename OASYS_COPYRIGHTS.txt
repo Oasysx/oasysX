@@ -1,0 +1,86 @@
+COPYRIGHT.txt
+/==========================================================================
+OasysX - Oasys Extractor, Open Source Edition
+
+Copyright (c) 2020 Oasys,   All rights reserved.
+
+Oasys Extractor are registered trademarks or
+trademarks of Oasys in India.
+
+Oasys Extractor is open source software that you may modify and/or
+redistribute under the terms of the GNU Lesser General Public License as
+published by the Free Software Foundation, either version 3 of the License,
+or (at your option) any later version, provided that the conditions
+specified in the COPYRIGHT file  provided with this software are met.
+
+For more information, please visit http://oasys.co/oasysextractor
+
+REDISTRIBUTIONS IN ANY FORMAT, WHETHER MODIFIED OR NOT, MUST RETAIN THE 
+ABOVE COPYRIGHT NOTICE, THIS LIST OF CONDITIONS, AND THE FOLLOWING 
+DISCLAIMERS. 
+
+1. If the software is MODIFIED, then the following must be added to the top
+of this document:
+
+   This is (or this includes) a MODIFIED version of the oasys extractor.
+
+2. Redistributions in any form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the code and the
+documentation and/or other materials provided with the distribution.
+
+3. Redistributions of any form whatsoever must retain the following 
+acknowledgment:
+
+   "This product includes the oasys extractor. (http://oasys.co/oasysextractor)" 
+ 
+   This acknowledgement must be included in the end-user documentation 
+   included with the redistribution.  Alternately, this acknowledgement 
+   may appear in the software itself, if and wherever such third-party 
+   acknowledgements normally appear.
+
+4. All advertising materials mentioning features or use of this software 
+must display the following acknowledgment:
+
+   "This product includes the oasys extractor. (http://oasys.co/oasysextractor)"  
+
+5. Advertising or marketing materials must include acknowledgment of 
+oasys extractor as required herein but may not imply endorsement by 
+Oasys without prior written permission.  For written permission,
+please contact admin@oasys.co.
+
+6. Products derived from this software may not be called "oasys extractor" 
+appear in their names
+without prior written permission from oasys.
+ 
+7. Disclaimers: The software is not designed, made, or intended for use 
+in an application where failure, malfunction or inaccuracy of the software
+may cause death, serious bodily injury, including, without limitation, use 
+in medical equipment, nuclear facilities, aircraft operation, air traffic 
+control, or life support.  Any such use is prohibited.  You agree that 
+Oasys will not be liable, in whole or in part, for any claims, 
+losses, costs or damages arising out of or in connection with the use and 
+performance of the software in such applications.  If You use the software 
+for such applications, You agree to indemnify, defend and hold 
+Oasys harmless from all claims, actions, losses, liabilities, 
+damages, costs and expenses (including attorney fees) arising out of or 
+relating to such prohibited uses.
+
+8. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL 
+OASYS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL, 
+INCIDENTAL, INDIRECT, PUNITIVE OR CONSEQUENTIAL DAMAGES WHATSOEVER, WHETHER
+IN TORT, PRODUCT LIABILITY AND/OR NEGLIGENCE  (INCLUDING, WITHOUT 
+LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, GOODWILL, BUSINESS 
+INTERRUPTION, LOSS OF BUSINESS INFORMATION, LOSS OF DATA, PRIVACY OR 
+CONFIDENTIALITY, BREACH OF SECURITY SYSTEMS OR ANY OTHER PECUNIARY LOSS) 
+ARISING OUT OF OR RELATING IN ANY WAY TO, THE USE OF, OR INABILITY TO USE 
+THE SOFTWARE, EVEN IF OASYS HAS BEEN ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES OR LOSSES.  THE SOFTWARE IS SUPPLIED "AS IS", AND THE ENTIRE 
+RISK OF ACCURACY AND SATISFACTORY PERFORMANCE IS WITH YOU. YOU ASSUME ALL 
+RESPONSIBILITY FOR SELECTING THE SOFTWARE PRODUCT TO ACHIEVE YOUR INTENDED 
+RESULTS, AND FOR THE INSTALLATION OF, USE OF, AND RESULTS OBTAINED FROM THE
+SOFTWARE.  OASYS DOES NOT GUARANTEE THAT THE SOFTWARE WILL MEET 
+YOUR REQUIREMENTS OR ALL REQUIREMENTS OF THE SOFTWARE OR HARDWARE WITH 
+WHICH IT INTERACTS. 
+
+If you are interested in obtaining a copy of this software under a 
+commercial license, please contact admin@oasys.co
