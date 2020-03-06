@@ -13,7 +13,7 @@ published by the Free Software Foundation, either version 3 of the License,
 or (at your option) any later version, provided that the conditions
 specified in the COPYRIGHT file  provided with this software are met.
 
-For more information, please visit http://oasys.co/oasysextractor
+For more information, please visit http://oasys.co/oasysX.txt
 
 REDISTRIBUTIONS IN ANY FORMAT, WHETHER MODIFIED OR NOT, MUST RETAIN THE 
 ABOVE COPYRIGHT NOTICE, THIS LIST OF CONDITIONS, AND THE FOLLOWING 
@@ -31,7 +31,7 @@ documentation and/or other materials provided with the distribution.
 3. Redistributions of any form whatsoever must retain the following 
 acknowledgment:
 
-   "This product includes the oasys extractor. (http://oasys.co/oasysextractor)" 
+   "This product includes the oasys extractor. (http://oasys.co/oasysX.txt)" 
  
    This acknowledgement must be included in the end-user documentation 
    included with the redistribution.  Alternately, this acknowledgement 
@@ -41,7 +41,7 @@ acknowledgment:
 4. All advertising materials mentioning features or use of this software 
 must display the following acknowledgment:
 
-   "This product includes the oasys extractor. (http://oasys.co/oasysextractor)"  
+   "This product includes the oasys extractor. (http://oasys.co/oasysX.txt)"  
 
 5. Advertising or marketing materials must include acknowledgment of 
 oasys extractor as required herein but may not imply endorsement by 
