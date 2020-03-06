@@ -1,6 +1,7 @@
-COPYRIGHT.txt
-/==========================================================================
 OasysX - Oasys Extractor, Open Source Edition, Oasys extractor(OasysX) derived from FingerJet Extractor and it has additional features as per the latest MINIX-III Guidelines.
+
+(Note: This is (or this includes) a MODIFIED version of the Digital Persona
+FingerJetFX OSE fingerprint feature extractor.)
 
 Copyright (c) 2020 Oasys,   All rights reserved.
 
