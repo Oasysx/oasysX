@@ -8,3 +8,21 @@ OASYS Cybernetics Pvt. Ltd. is an ISO 9001:2015, ISO 14001:2015, ISO/IEC 27001:2
 Package Details
 ---------------
 
+
+
+
+
+Steps to validate the template for minexiii
+-------------------------------------------
+git clone https://github.com/oasyscybernetics/oasysX.git
+
+cd oasysX/minexiii/validation/
+
+Steps to creating minexiii_create_template shared library
+---------------------------------------------------------
+make clean
+g++ -fPIC -c -Wall minexiii_create_template.cpp
+ld -shared minexiii_create_template.o -o libminexiii_oasys_0001.so
+Validating the template
+./validate
+
