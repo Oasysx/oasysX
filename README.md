@@ -12,6 +12,8 @@ Package Details
 
 
 
+
+
 Steps to validate the template for minexiii
 -------------------------------------------
 git clone https://github.com/oasyscybernetics/oasysX.git
