@@ -3,7 +3,7 @@
 Established in the year 2000 as Omne Agate System Pvt. Ltd. amalgamated  as OASYS Cybernetics Pvt. Ltd. in 2016.
 OASYS Cybernetics Pvt. Ltd. headquartered in Chennai is one of the leading System Integrators and Turnkey Solution Provider delivering cutting edge technology solutions in various  e-Governance, IT, ITeS, Education and other business verticals.
 97% of the revenue are from e-Governance business verticals. With the state-of-the-art infrastructure, 1200+ qualified Technical Engineers, certified Project Managers, Architects, highly trained Field Engineers.
-OASYS Cybernetics Pvt. Ltd. is an ISO 9001:2015, ISO 14001:2015, ISO/IEC 27001:2013, ISO 20000-1:2011, ISO 50001:2011, CMMI Level 3, NABL Certified, 'S' Mark Certification, CE Marking and BIS Certified product company..
+OASYS Cybernetics Pvt. Ltd. is an ISO 9001:2015, ISO 14001:2015, ISO/IEC 27001:2013, ISO 20000-1:2011, ISO 50001:2011, CMMI Level 5, NABL Certified, 'S' Mark Certification, CE Marking and BIS Certified product company..
 
 Package Details
 ---------------
