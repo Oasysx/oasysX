@@ -5,15 +5,6 @@ OASYS Cybernetics Pvt. Ltd. headquartered in Chennai is one of the leading Syste
 97% of the revenue are from e-Governance business verticals. With the state-of-the-art infrastructure, 1200+ qualified Technical Engineers, certified Project Managers, Architects, highly trained Field Engineers.
 OASYS Cybernetics Pvt. Ltd. is an ISO 9001:2015, ISO 14001:2015, ISO/IEC 27001:2013, ISO 20000-1:2011, ISO 50001:2011, CMMI Level 5, NABL Certified, 'S' Mark Certification, CE Marking and BIS Certified product company..
 
-Package Details
----------------
-
-
-
-
-
-
-
 Steps to validate the template for minexiii
 -------------------------------------------
 git clone https://github.com/oasyscybernetics/oasysX.git
