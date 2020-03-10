@@ -26,7 +26,7 @@ make clean
 
 g++ -fPIC -c -Wall minexiii_create_template.cpp
 
-ld -shared minexiii_create_template.o -o libminexiii_oasys_0001.so
+ld -shared minexiii_create_template.o -o lib/libminexiii_oasys_0001.so
 
 Validating the template
 
