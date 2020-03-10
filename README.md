@@ -37,18 +37,10 @@ Contact Details
 ---------------
 
 OASYS Cybernetics Pvt. Ltd
-
-Administrative Office
-
 OAS Towers, No.3/4, Stringers Road, Vepery, Chennai,
-
 Tamil Nadu - 600003, India.
-
 Phone : +91-44-25613300 
-
 mobile : +91- 9841084810
-
 Email: admin@oasys.co
-
 www.oasys.co
 
