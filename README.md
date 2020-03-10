@@ -21,8 +21,12 @@ cd oasysX/minexiii/validation/
 Steps to creating minexiii_create_template shared library
 ---------------------------------------------------------
 make clean
+
 g++ -fPIC -c -Wall minexiii_create_template.cpp
+
 ld -shared minexiii_create_template.o -o libminexiii_oasys_0001.so
+
 Validating the template
+
 ./validate
 
