@@ -1,4 +1,4 @@
- Oasys Cybernetics 
+ Oasys Cybernetics Pvt Ltd
 ===================
 Established in the year 2000 as Omne Agate System Pvt. Ltd. amalgamated  as OASYS Cybernetics Pvt. Ltd. in 2016.
 OASYS Cybernetics Pvt. Ltd. headquartered in Chennai is one of the leading System Integrators and Turnkey Solution Provider delivering cutting edge technology solutions in various  e-Governance, IT, ITeS, Education and other business verticals.
@@ -26,15 +26,11 @@ Validating the template
 
 Contact Details
 ---------------
-
 OASYS Cybernetics Pvt. Ltd
 OAS Towers, No.3, Stringers Road, Vepery, Chennai,
 Tamil Nadu - 600003, India.
-
 Phone : +91-44-25613300 
-Mobile : +91-9841084810
-
+Mobile : +91-98410 84810
 Email: admin@oasys.co
-
-Url: www.oasys.co
+www.oasys.co
 
