@@ -11,6 +11,11 @@ git clone https://github.com/oasyscybernetics/oasysX.git
 
 cd oasysX/minexiii/validation/
 
+Main advantage and disadvantage of oasys minex-iii package
+---------------------------------------------------------
+
+
+
 Steps to creating minexiii_create_template shared library
 ---------------------------------------------------------
 make clean
@@ -26,8 +31,8 @@ Validating the template
 
 Contact Details
 ---------------
-OASYS Cybernetics Pvt. Ltd
-OAS Towers, No.3, Stringers Road, Vepery, Chennai,
+OASYS Cybernetics Pvt. Ltd <br>
+OAS Towers, No.3, Stringers Road, Vepery, Chennai,<br>
 Tamil Nadu - 600003, India.
 Phone : +91-44-25613300 
 Mobile : +91-98410 84810
